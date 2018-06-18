@@ -11,4 +11,5 @@ tags: []
 
 Hi my name is Chris Iba and I am from Huntington Beach, CA. I am 19 and am currently enrolled at the University of California - Berkeley majoring in Computer Science. This summer break, I have the amazing opportnity to be part of a program called iXperience, located in Cape Town, South Africa. Here, I am studying Data Science, taught by the legendary DataWookie. So far, I am having an awesome time and am getting ready to start my internship in 2 weeks.
 
-![LionsHead](/img/me.jpg)
+![LionsHead](/img/me.jpg){:.some-css-class width="200"}
+

@@ -1,0 +1,10 @@
+---
+title: Factorial Package
+author: ~
+date: '2018-06-18'
+slug: factorial-package
+categories: []
+tags: []
+---
+
+For my week 2 project, I built a factorial package that can recursively calculate the factorial of any given N integer.
